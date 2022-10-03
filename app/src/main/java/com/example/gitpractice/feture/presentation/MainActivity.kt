@@ -1,4 +1,4 @@
-package com.example.gitpractice
+package com.example.gitpractice.feture.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
